@@ -1,13 +1,4 @@
 # Advanced Hash-Based Data Structures
-**UCD COMP47500 — Group Project**
-
-| Student | ID | Contribution |
-|---|---|---|
-| Geet Bhute | 25202112 | 33.33% |
-| Muskaan Pahilajani | 25200738 | 33.33% |
-| Shridhar Joshi | 25200572 | 33.33% |
-
----
 
 ## Structures Implemented
 
